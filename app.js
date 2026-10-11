@@ -2,7 +2,7 @@
   "use strict";
 
   // Fill these two values with Supabase Project URL and publishable key.
-  const SUPABASE_URL = "https://qgqxsdskyfdbglcbomzb.supabase.co/rest/v1/";
+  const SUPABASE_URL = "https://qgqxsdskyfdbglcbomzb.supabase.co";
   const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_nD1-8ma3eENmgKvp2QBQqw_Fg7I2vPi";
   const ALLOWED_USERS = {
     "3b76df6d-cf06-4344-b636-7270cbf43b89": "caleb",
